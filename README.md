@@ -7,4 +7,6 @@
   - Markanı silmək, markanın adını update etmək mümkün olsun. (Optional)
   - Yeni model əlavə etmək, marka silmək, markanın adını update etmək mümkün olsun. (Optional) 
   
+- Dünən göndərdiyim linklərdən SQLConnection və digər class-lar barədə ətraflı məlumat ala bilərsiniz.  
+
 *Sabah labda iştirak edin. Xoş həftəsonu.*
