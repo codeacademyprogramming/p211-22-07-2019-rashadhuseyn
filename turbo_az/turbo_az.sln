@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turbo_az", "turbo_az\turbo_az.csproj", "{7032EE5C-46EB-4CDE-8F76-19F9CAF3B35B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7032EE5C-46EB-4CDE-8F76-19F9CAF3B35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7032EE5C-46EB-4CDE-8F76-19F9CAF3B35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7032EE5C-46EB-4CDE-8F76-19F9CAF3B35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7032EE5C-46EB-4CDE-8F76-19F9CAF3B35B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97706A9A-A75F-480B-8C0D-D793210B7807}
+	EndGlobalSection
+EndGlobal
